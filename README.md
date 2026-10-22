@@ -1,6 +1,12 @@
 # Credit-Card-Portfolio-Performance-Weekly-Revenue-Analytics
-A business-facing technical review of 10,108 cardholder accounts, US$56.5M of gross billings and the Week 53 incremental load — covering data architecture, analytical meth odology, key findings and a prioritised set of revenue actions.
 
+A business-facing technical review of 10,108 cardholder accounts, US$56.5M of gross billings and the Week 53 incremental load — covering data architecture, analytical meth odology, key findings and a prioritised set of revenue actions and to guide strategic business decisions.
+
+	Project Overview : This project analyzes customer credit card usage behavior using transactional data from 10108 purchases across various services and purchases. The goal cover insights into Week on Week generation of revenues through Interest earned on credit card, the Activation rate of cards ,spending patterns, usage pattern, the revenue classification in terms of age groups of customers,by job category, by marital status and gender and various other factors.
+
+	The analysis also includes the total transaction numbers on weekly and Quarterly basis affecting the revenue. The Customer acquisition cost of various types of credit cards also to be analysed. 
+
+Details of Files attached : 
 
 The first set of CSV files are customer.csv & credit_card.csv. On the basis of this data ,two dashboard created- one for Transactions and other for Customer related KPI and Charts. The Dashboard are- Credit card Transaction Dashboard and Credit Card Customer Dash board. ( 52 Week Data,10108 rows)
 
